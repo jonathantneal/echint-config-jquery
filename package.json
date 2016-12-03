@@ -1,0 +1,31 @@
+{
+  "name": "echint-config-jquery",
+  "version": "1.0.0",
+  "description": "jQuery's echint config, enforcing the jQuery styleguide",
+  "author": "Jonathan Neal <jonathantneal@hotmail.com>",
+  "license": "CC0-1.0",
+  "repository": "jonathantneal/echint-config-jquery",
+  "homepage": "https://github.com/jonathantneal/echint-config-jquery#readme",
+  "bugs": "https://github.com/jonathantneal/echint-config-jquery/issues",
+  "main": ".editorconfig",
+  "files": [
+    ".editorconfig"
+  ],
+  "scripts": {
+    "test": "echint"
+  },
+  "keywords": [
+    "editorconfig",
+    "editor-config",
+    "eshint-config",
+    "eshintconfig",
+    "echint",
+    "config",
+    "lint",
+    "jquery",
+    "style guide"
+  ],
+  "devDependencies": {
+    "echint": "^2.0.0"
+  }
+}
